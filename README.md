@@ -19,7 +19,8 @@ Make sure Docker is installed on your system.
 Run the following command in your terminal:
 
 ```bash
-docker build -t docker-demo-app .
+docker build -t docker-demo-app . 
+```
 
 ## ▶️ How to Run the Container
 
@@ -27,4 +28,4 @@ After building the image, run the container using:
 
 ```bash
 docker run docker-demo-app
-
+```
